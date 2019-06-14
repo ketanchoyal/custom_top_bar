@@ -2,7 +2,7 @@ name: custom_top_bar
 description: Custom AppBar
 version: 0.0.1
 author: Ketan Choyal <ketanchoyal@gmail.com>
-homepage: https://github.com/ketanchoyal/Top-Bar
+homepage: https://github.com/ketanchoyal/custom_top_bar
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
